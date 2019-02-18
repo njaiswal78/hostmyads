@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-echo "Select location, category, day, medium and submit your ad now";
+echo "<h1>Select location, category, day, medium and submit your ad now</h1>";
 ?>
 </body>
 </html>
